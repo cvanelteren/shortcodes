@@ -1,3 +1,3 @@
-module github.com/cvanelteren/shortcodes-include-html
+module github.com/cvanelteren/shortcodes
 
 go 1.15
